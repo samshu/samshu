@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samshu
 - 👀 I’m interested in anything Java or just any other technology
-- 🌱 I’m currently learning Cloud/Microservices
+- 🌱 I’m currently learning Cloud/Microservices, and React!
 - 💞️ I’m looking to collaborate on Cloud
 - 📫 How to reach me ...
 
